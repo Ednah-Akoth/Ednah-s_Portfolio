@@ -1,2 +1,2 @@
 # Ednah-s_Portfolio
-Work I have done so far
+This contains code in python that I have done thus far. 
